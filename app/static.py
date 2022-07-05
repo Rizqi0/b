@@ -2,7 +2,7 @@
 AUTHOR_NAME = "Created by AF"
 AUTHOR_TWITTER_URL = "https://twitter.com/adifahmii"
 AUTHOR_ICON_URL = "https://cdn.discordapp.com/attachments/781466869688827904/802388113615486976/AF.png"
-SAWERIA_URL = "https://saweria.co/radioid"
+SAWERIA_URL = "https://saweria.co/NoodN00B"
 PAYPAL_URL = "https://paypal.me/adifahmi"
 
 BOT_NAME = "Radio Indonesia"
